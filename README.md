@@ -1,3 +1,3 @@
-# Przycisk
+# Aplikacja ecobee
 
-Przycisk testowy, nic nie robi
+Aplikacja ecobee dla homeya
